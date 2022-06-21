@@ -1,7 +1,7 @@
 # asfa
 asfa is an FTPS file-sharing application written in PyQt5 and Pyftpdlib
 
-Manage USB connected too!
+Manage USB drives connected to PC too!
 
 # Screenshots:
 
